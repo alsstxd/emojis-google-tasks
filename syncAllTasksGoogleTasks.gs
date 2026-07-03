@@ -1,3 +1,4 @@
+/* default file and functions */
 function sincronizarTodasAsTarefas() {
   const nomeListaCentral = "♾️ Todas as tarefas";
 
