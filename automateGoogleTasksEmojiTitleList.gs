@@ -1,3 +1,4 @@
+/* default file and functions */
 function automatizarGoogleTasksEmojiTituloLista() {
   const nomeListaIgnorada = "♾️ Todas as tarefas";
   const taskLists = Tasks.Tasklists.list().items || [];
