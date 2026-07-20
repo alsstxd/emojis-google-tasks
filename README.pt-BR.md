@@ -1,4 +1,4 @@
 # Emojis nas Tarefas no Google Tarefas
 ### Scripts de automação para inclusão de emojis nas tarefas criadas no aplicativo Google Tarefas.
 
-> _Foram usadas ferramentas de IA para gerar os arquivos presentes no projeto (ChatGPT e Gemini)._
+> _Foram usadas ferramentas de IA para gerar os arquivos presentes no projeto (OpenAI ChatGPT e Google Gemini)._
