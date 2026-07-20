@@ -1,4 +1,4 @@
-# userscripts-browser
-Scripts de automação para aumento de produtividade utilizando o aplicativo Google Tarefas.
+# Emojis nas Tarefas no Google Tarefas
+### Scripts de automação para inclusão de emojis nas tarefas criadas no aplicativo Google Tarefas.
 
-> Foram usadas ferramentas de IA para gerar os arquivos presentes no projeto (ChatGPT e Gemini).
+> _Foram usadas ferramentas de IA para gerar os arquivos presentes no projeto (ChatGPT e Gemini)._
