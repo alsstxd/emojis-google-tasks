@@ -1,3 +1,4 @@
+/* Remove all tasks from all lists */
 function excluirTodasAsTarefas() {
   const taskLists = Tasks.Tasklists.list().items || [];
 
