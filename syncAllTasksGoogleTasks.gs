@@ -1,3 +1,4 @@
+/* Sync all tasks to another list (the list do need created previously) */
 function sincronizarTodasAsTarefas() {
   const nomeListaCentral = "♾️ Todas as tarefas";
 
