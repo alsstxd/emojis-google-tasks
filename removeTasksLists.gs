@@ -1,3 +1,4 @@
+/* Delete all tasks from list "📅 With Date" */
 function excluirTodasTarefasDaLista(
   nomeLista = "📅 Com Data",
   confirmar = true
