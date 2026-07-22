@@ -1,3 +1,4 @@
+/* UserScript to add horizontal scrolling in Google Tasks in the Google Chrome */
 // ==UserScript==
 // @name         Google Tasks - Scroll inteligente (horizontal fora, vertical nos cards)
 // @version      1.0
