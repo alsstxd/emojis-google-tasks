@@ -1,3 +1,4 @@
+/* Format the notes in the tasks like lists */
 function formatarNotasComoLista(nomeLista = null) {
   const taskLists = Tasks.Tasklists.list().items || [];
 
