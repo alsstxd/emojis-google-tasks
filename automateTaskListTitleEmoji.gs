@@ -1,4 +1,5 @@
-/* default file and functions */
+/* Add emojis to the list name for tasks with a due date (the list name must already have an emoji at the beginning) */
+/* Default file and functions */
 function automatizarGoogleTasksEmojiTituloLista() {
   const nomeListaIgnorada = "♾️ Todas as tarefas";
   const taskLists = Tasks.Tasklists.list().items || [];
