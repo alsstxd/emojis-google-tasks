@@ -1,3 +1,4 @@
+/* Sync tasks with a date to another list (the list do need created previously) */
 function sincronizarListaComData() {
   const nomeListaDestino = "📅 Com Data";
   const listasIgnoradas = [
