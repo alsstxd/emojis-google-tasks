@@ -1,3 +1,4 @@
+/* Update all tasks with a date of today  */
 function atualizarTarefasAtrasadasParaHoje() {
   const nomeListaIgnorada = "Todas as tarefas";
   const hoje = new Date();
